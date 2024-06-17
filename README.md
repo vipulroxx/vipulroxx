@@ -3,14 +3,17 @@
 ## 💻 Welcome to my GitHub Profile! 
 ### ✨💞✨ **[vipulroxx.github.io](https://vipulroxx.github.io)** ✨💞✨
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
 ## About Me
 -  @vipulroxx
 - 👀 I’m interested in open source projects and full stack development
 - 🌱 I’m currently learning microservicing without image deployment in cloud
 - 💞️ I’m looking to collaborate on open source projects as solution architect/fullstack developer
 - 📫 Reach me at vipulsharma936@gmail.com
-
 ---
+
+![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipulroxx&show_icons=true&theme=radical)
 
 ## 💖 Open Source World
 
