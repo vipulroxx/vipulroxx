@@ -8,7 +8,7 @@
 ## About Me
 -  @vipulroxx
 - 👀 I’m interested in open source projects and full stack development
-- 🌱 I’m currently learning microservicing without image deployment in cloud
+- 🌱 I’m currently Solution Architect and can mange product lifecycles from audit side as well
 - 💞️ I’m looking to collaborate on open source projects as solution architect/fullstack developer
 - 📫 Reach me at vipulsharma936@gmail.com
 ---
